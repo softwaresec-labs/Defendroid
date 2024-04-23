@@ -6,6 +6,6 @@ This study highlights the importance of security in Android app development and 
 ![BLFLModel](https://github.com/softwaresec-labs/Defendroid/assets/102326773/8a648e50-ad05-4131-a803-e1988de28f29)
 
 
-
+If you are using this plugin or model in your research work, please cite as: **_Senanayake, J., Kalutarage, H., Petrovski, A., Piras, L. and Al-Kadri, M.O., 2024. Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI. Journal of Information Security and Applications, 82, p.103741. https://doi.org/10.1016/j.jisa.2024.103741_**
 
 
